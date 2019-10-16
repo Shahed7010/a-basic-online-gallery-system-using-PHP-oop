@@ -1,0 +1,12 @@
+
+.modal-dialog{
+    width: 80% !important;
+}
+.modal-thumbnails{
+    width: 150px;
+    height: 100px !important;
+}
+.modal-body{
+    height: auto;
+    overflow: auto;
+}
